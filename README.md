@@ -1,6 +1,8 @@
 # dataStructures_Algorithms
 
-The following directory contains assignments for Data Structures and Algorithms class.
+This directory contains assignments for Data Structures and Algorithms class.
+
+Important topics are listed below:
 
 -blackjack_v3.zip
 
