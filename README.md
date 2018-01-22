@@ -1,6 +1,6 @@
 # dataStructures_Algorithms
 
-This directory contains assignments for Data Structures and Algorithms class.
+This directory contains assignments written in C++ for Data Structures and Algorithms class.
 
 Important topics are listed below:
 
